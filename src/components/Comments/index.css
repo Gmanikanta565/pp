@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bg {
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+  margin-right: 200px;
+}
+.forme {
+  display: flex;
+  flex-direction: column;
+}
+.comment {
+  height: 150px;
+  margin: 10px;
+}
+.name {
+  margin: 10px;
+}
+button {
+  width: 150px;
+  background-color: skyblue;
+  color: white;
+  border-width: 0px;
+}
+.c {
+  background-color: skyblue;
+  color: white;
+  width: 15px;
+}
+.cdiv {
+  display: flex;
+}
+li{
+  list-style-type: none;
+}

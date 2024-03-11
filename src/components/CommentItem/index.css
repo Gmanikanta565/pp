@@ -1,0 +1,86 @@
+.amber {
+  background-color: #f59e0b;
+  width: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue {
+  background-color: #0b69ff;
+  width: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.orange {
+  background-color: #f97316;
+  width: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.emerald {
+  background-color: #10b981;
+  width: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.teal {
+  background-color: #14b8a6;
+  width: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  background-color: #b91c1c;
+  width: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  width: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Write your CSS here */
+.carditem {
+  display: flex;
+}
+p {
+  margin: 10px;
+}
+.btn{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btnb{
+  background-color: transparent;
+  border-width:0px;
+}
